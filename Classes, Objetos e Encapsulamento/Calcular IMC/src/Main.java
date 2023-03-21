@@ -1,3 +1,6 @@
+// Implemente a classe Paciente, com os atributos nome, peso e altura. Crie o
+// método calcularIMC(), para calcular o índice de massa corporal do paciente
+
 import java.util.Scanner;
 
 public class Main {
