@@ -1,5 +1,7 @@
 # Programação Orientada a Objeto // POO // OOP
 
+## Professor:
+Pablo Alberto Dalbem de Castro 
 
 ## • EMENTA: 
 
